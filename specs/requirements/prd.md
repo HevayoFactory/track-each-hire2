@@ -1,12 +1,12 @@
-# Onboarding Tracker
+# On-boarding Tracker
 
 ## Problem Statement
 
-New hires move through tasks owned by three different teams — IT, HR and
-Facilities — with no single place that shows what is done, what is pending,
-and what has slipped. Today that coordination happens over email and memory,
-so overdue tasks (a laptop not provisioned, a badge not issued) surface only
-when the new hire shows up without what they need.
+New hires move through tasks owned by three different teams — IT, HR and  
+Facilities — with no single place that shows what is done, what is pending,  
+and what has slipped. Today that coordination happens over email and memory,  
+so overdue tasks (a laptop not provisioned, a badge not issued) surface only  
+when the new hire shows up without what they need. I am typing something 
 
 ## Solution
 
