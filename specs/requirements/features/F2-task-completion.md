@@ -15,6 +15,7 @@ Needs: F1.
 - F2.3 As an IT Staff member or a Facilities Staff member, I mark a task in my queue complete.
 - F2.4 As an HR Coordinator, I see a queue of every HR task across new hires, soonest due date first, and mark my own tasks complete.
 - F2.5 As a Hiring Manager, I see the full checklist and the status of every task for my new hire.
+- F2.6 As a New Hire, I see my own checklist and the status of every task on it.
 
 ## Decisions
 

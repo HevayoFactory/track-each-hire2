@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Let the HR Coordinator add a new hire and build their onboarding checklist   
+Let the HR Coordinator add a new hire and build their onboarding checklist  
 from a role-based template, customized as needed, with tasks assigned across  
-IT, HR and Facilities.
+IT, HR and Facilities. New hires can see their own checklist.
 
 ## User Stories
 

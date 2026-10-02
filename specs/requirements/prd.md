@@ -26,6 +26,7 @@ items.
 - **Facilities Staff** — completes the facilities tasks assigned to them for
 each new hire (workspace, badge, parking).
 - **Hiring Manager** — views their own new hire's onboarding progress.
+- **New Hire** — views their own onboarding checklist and task status.
 
 ## Features
 
